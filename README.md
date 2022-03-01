@@ -9,5 +9,5 @@
 - ASP.NET Core in Action, Second Edition
 - Functional Programming in C#, Second Edition
 - Reactive Applications with Akka.NET
-- 
+- 클린애자일
 - 오브젝트
