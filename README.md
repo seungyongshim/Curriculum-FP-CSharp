@@ -5,7 +5,6 @@
 - 오브젝트 디자인 스타일 가이드
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발
 - 이벤트 기반 마이크로서비스 구축
-- 클린아키텍처
 - ASP.NET Core in Action, Second Edition
 - Functional Programming in C#, Second Edition
 - Reactive Applications with Akka.NET
@@ -35,9 +34,7 @@
 #### 9주
 - 이벤트 기반 마이크로서비스 구축: 11~17장
 #### 10주
-- 클린아키텍처 : 1~11장
-#### 11주
-- 클린아키텍처 : 1~11장
+- ASP.NET Core in Action, Second Edition: 10장~16장
 
 ## Plan for intermediate developer
 #### 1주
@@ -53,6 +50,7 @@
 - 이벤트 기반 마이크로서비스 구축: 1~10장
 #### 5주
 - 이벤트 기반 마이크로서비스 구축: 11~17장
-- 클린아키텍처 : 1~11장
+#### 6주
+- ASP.NET Core in Action, Second Edition: 10장~16장
 
 
