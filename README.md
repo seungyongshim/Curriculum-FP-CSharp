@@ -9,6 +9,7 @@
 - ASP.NET Core in Action, Second Edition
 - Functional Programming in C#, Second Edition
 - Reactive Applications with Akka.NET
+- Blazor in Action 
 - 클린애자일
 - 오브젝트
 
@@ -47,6 +48,20 @@
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발 : 5장 마이크로서비스 설계
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발 : 8장 CQRS
 #### 6주
-- ASP.NET Core in Action, Second Edition: 1장~9장
+- ASP.NET Core in Action, Second Edition: 1장 Getting started with Asp.net core 
+- ASP.NET Core in Action, Second Edition: 2장 Your first application
+- ASP.NET Core in Action, Second Edition: 3장 Handling requests with the middleware pipeline
+- ASP.NET Core in Action, Second Edition: 9장 Creating a Web API for mobile and client applications using MVC
+- ASP.NET Core in Action, Second Edition: 10장 Service configuration with dependency injection
 #### 7주
-- ASP.NET Core in Action, Second Edition: 10장~16장
+- ASP.NET Core in Action, Second Edition: 11장 Configuring an ASP.NET Core application
+- ASP.NET Core in Action, Second Edition: 12장 Saving data with Entity Framework Core
+- ASP.NET Core in Action, Second Edition: 14장 Authentication: Adding users to your application with Identity
+- ASP.NET Core in Action, Second Edition: 15장 Authorization: Securing your application
+#### 8주
+- Blazor in Action: 1장 Starting your Blazor journey
+- Blazor in Action: 2장 Your first Blazor App
+- Blazor in Action: 3장 Working with Blazor’s component model
+- Blazor in Action: 4장 Routing
+- Blazor in Action: 5장 Forms & validation – Part 1: fundamentals
+- Blazor in Action: 6장 Forms & validation – Part 2: beyond the basics
